@@ -54,9 +54,3 @@ _日期：2023/12/8_
 3. 接入步进电机（4个管脚）。
 4. 最后连接点阵。
 
-## 其他参考
-- [烧录失败的Bug](https://chipdebug.com/forum-post/20501.html)
-- [键盘扫描参考](https://blog.51cto.com/u_15075516/4680301)
-- [星期计算 - 蔡乐公式](https://www.luogu.com.cn/blog/holyromanempire/ji-suan-te-ding-ri-ji-shi-xing-ji-ji-cai-le-gong-shi)
-- [BCD码转换讨论](#)
-- [四线八相电机参考](https://blog.csdn.net/qq_35484725/article/details/118211352)
